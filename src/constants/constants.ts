@@ -8,8 +8,8 @@ export const EncryptStorageKeys = {
 
 export const ApiBatchDefaultDetails = {
   API_OFFSET: 0,
-  API_LIMIT: 50,
-  API_PER_BATCH: 50,
+  API_LIMIT: 100,
+  API_PER_BATCH: 100,
 };
 
 export const LocalBatchDefaultDetails = {
